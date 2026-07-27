@@ -114,8 +114,7 @@ redistributed.
 
 All 63 references were queried programmatically against the CrossRef DOI
 registry and Semantic Scholar (`scripts/verify_bib.py`, `verify_bib2.py`).
-**35 confirmed against publisher metadata; 28 unresolved** — mostly CS
-conference papers that CrossRef indexes poorly, plus three books whose titles
-the parser could not extract. Status per entry: `results/bib_verification.json`.
+**35 confirmed against publisher metadata; 28 unresolved** —
+`results/bib_verification.json`.
 Per-reference notes and the recommendation to trim: `docs/NOTES_AND_OUTREACH.md`.
 
