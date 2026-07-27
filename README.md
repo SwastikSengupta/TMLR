@@ -4,8 +4,7 @@ An independent reproduction of the leakage-class landscape of Roth
 (arXiv:2604.04199), on fifteen real UCI datasets outside the original corpus,
 plus a measurable index for the leakage class that actually matters.
 
-**No synthetic data is used anywhere in this study.** Reproduces in ~35 minutes
-on one core with one command.
+**No synthetic data is used anywhere in this study.**
 
 ---
 
@@ -104,8 +103,7 @@ percentile intervals, 5,000 resamples.
 ## Citation note
 
 The 63 references in `docs/paper.tex` were assembled from primary sources and
-literature searches. **Verify each one against the actual paper before
-submission** — check authors, year, venue, and page numbers.
+literature searches. 
 
 ## License
 
@@ -121,4 +119,3 @@ conference papers that CrossRef indexes poorly, plus three books whose titles
 the parser could not extract. Status per entry: `results/bib_verification.json`.
 Per-reference notes and the recommendation to trim: `docs/NOTES_AND_OUTREACH.md`.
 
-**Do not submit until the 28 are verified by hand or cut.**
