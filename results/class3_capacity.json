@@ -1,0 +1,58 @@
+[
+ {
+  "arm": "across_family",
+  "model": "naive_bayes",
+  "n_datasets": 15,
+  "dAUC": 0.0016016967387647203,
+  "dAUC_sd": 0.00602930587397376,
+  "d_z": 0.2656519294664816
+ },
+ {
+  "arm": "across_family",
+  "model": "logreg",
+  "n_datasets": 15,
+  "dAUC": 0.0025082936855053656,
+  "dAUC_sd": 0.005858553189572656,
+  "d_z": 0.42814217168323254
+ },
+ {
+  "arm": "across_family",
+  "model": "lda",
+  "n_datasets": 15,
+  "dAUC": 0.0035118551375015626,
+  "dAUC_sd": 0.007738092455190884,
+  "d_z": 0.4538399040639185
+ },
+ {
+  "arm": "across_family",
+  "model": "knn5",
+  "n_datasets": 15,
+  "dAUC": 0.008070089880598541,
+  "dAUC_sd": 0.007816251440657592,
+  "d_z": 1.032475725975314
+ },
+ {
+  "arm": "across_family",
+  "model": "decision_tree",
+  "n_datasets": 15,
+  "dAUC": 0.026274024878731258,
+  "dAUC_sd": 0.03037183490028797,
+  "d_z": 0.8650786152693771
+ },
+ {
+  "arm": "across_family",
+  "model": "random_forest",
+  "n_datasets": 15,
+  "dAUC": 0.017176467825853817,
+  "dAUC_sd": 0.022300078488857497,
+  "d_z": 0.7702424829776382
+ },
+ {
+  "arm": "across_family",
+  "model": "grad_boost",
+  "n_datasets": 15,
+  "dAUC": 0.010666684025872387,
+  "dAUC_sd": 0.016663788372129142,
+  "d_z": 0.6401115873334569
+ }
+]

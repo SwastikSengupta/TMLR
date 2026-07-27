@@ -1,0 +1,571 @@
+{
+ "rows": [
+  {
+   "dataset": "wine",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 0.9982,
+   "leaky": 0.9982,
+   "dAUC": -0.0001
+  },
+  {
+   "dataset": "wine",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 0.9934,
+   "leaky": 0.9935,
+   "dAUC": 0.0001
+  },
+  {
+   "dataset": "wine",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 0.9973,
+   "leaky": 0.9973,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "wine",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 0.9902,
+   "leaky": 0.9902,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "wine",
+   "clf": "rf",
+   "op": "scaling",
+   "correct": 0.9988,
+   "leaky": 0.9989,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "wine",
+   "clf": "rf",
+   "op": "imputation",
+   "correct": 0.9967,
+   "leaky": 0.9964,
+   "dAUC": -0.0002
+  },
+  {
+   "dataset": "mammographic",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 0.8973,
+   "leaky": 0.8976,
+   "dAUC": 0.0002
+  },
+  {
+   "dataset": "mammographic",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 0.8854,
+   "leaky": 0.8854,
+   "dAUC": 0.0001
+  },
+  {
+   "dataset": "mammographic",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 0.879,
+   "leaky": 0.879,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "mammographic",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 0.8769,
+   "leaky": 0.877,
+   "dAUC": 0.0001
+  },
+  {
+   "dataset": "mammographic",
+   "clf": "rf",
+   "op": "scaling",
+   "correct": 0.8614,
+   "leaky": 0.8615,
+   "dAUC": 0.0002
+  },
+  {
+   "dataset": "mammographic",
+   "clf": "rf",
+   "op": "imputation",
+   "correct": 0.8555,
+   "leaky": 0.8551,
+   "dAUC": -0.0004
+  },
+  {
+   "dataset": "parkinsons",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 0.8946,
+   "leaky": 0.8944,
+   "dAUC": -0.0002
+  },
+  {
+   "dataset": "parkinsons",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 0.8842,
+   "leaky": 0.8849,
+   "dAUC": 0.0007
+  },
+  {
+   "dataset": "parkinsons",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 0.8789,
+   "leaky": 0.8789,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "parkinsons",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 0.8533,
+   "leaky": 0.8532,
+   "dAUC": -0.0002
+  },
+  {
+   "dataset": "parkinsons",
+   "clf": "rf",
+   "op": "scaling",
+   "correct": 0.9532,
+   "leaky": 0.9532,
+   "dAUC": -0.0
+  },
+  {
+   "dataset": "parkinsons",
+   "clf": "rf",
+   "op": "imputation",
+   "correct": 0.9281,
+   "leaky": 0.9289,
+   "dAUC": 0.0008
+  },
+  {
+   "dataset": "transfusion",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 0.7482,
+   "leaky": 0.7483,
+   "dAUC": 0.0001
+  },
+  {
+   "dataset": "transfusion",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 0.7236,
+   "leaky": 0.7237,
+   "dAUC": 0.0001
+  },
+  {
+   "dataset": "transfusion",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 0.748,
+   "leaky": 0.748,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "transfusion",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 0.7236,
+   "leaky": 0.7238,
+   "dAUC": 0.0001
+  },
+  {
+   "dataset": "transfusion",
+   "clf": "rf",
+   "op": "scaling",
+   "correct": 0.6749,
+   "leaky": 0.6716,
+   "dAUC": -0.0032
+  },
+  {
+   "dataset": "transfusion",
+   "clf": "rf",
+   "op": "imputation",
+   "correct": 0.6697,
+   "leaky": 0.6694,
+   "dAUC": -0.0003
+  },
+  {
+   "dataset": "seeds",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 0.9701,
+   "leaky": 0.97,
+   "dAUC": -0.0001
+  },
+  {
+   "dataset": "seeds",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 0.9021,
+   "leaky": 0.9023,
+   "dAUC": 0.0002
+  },
+  {
+   "dataset": "seeds",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 0.9944,
+   "leaky": 0.9944,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "seeds",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 0.9023,
+   "leaky": 0.9022,
+   "dAUC": -0.0
+  },
+  {
+   "dataset": "seeds",
+   "clf": "rf",
+   "op": "scaling",
+   "correct": 0.9771,
+   "leaky": 0.977,
+   "dAUC": -0.0001
+  },
+  {
+   "dataset": "seeds",
+   "clf": "rf",
+   "op": "imputation",
+   "correct": 0.9607,
+   "leaky": 0.9608,
+   "dAUC": 0.0001
+  },
+  {
+   "dataset": "qsar_biodeg",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 0.9245,
+   "leaky": 0.9246,
+   "dAUC": 0.0001
+  },
+  {
+   "dataset": "qsar_biodeg",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 0.9039,
+   "leaky": 0.9039,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "qsar_biodeg",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 0.9132,
+   "leaky": 0.9132,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "qsar_biodeg",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 0.8885,
+   "leaky": 0.8885,
+   "dAUC": -0.0
+  },
+  {
+   "dataset": "qsar_biodeg",
+   "clf": "rf",
+   "op": "scaling",
+   "correct": 0.9315,
+   "leaky": 0.9315,
+   "dAUC": -0.0
+  },
+  {
+   "dataset": "qsar_biodeg",
+   "clf": "rf",
+   "op": "imputation",
+   "correct": 0.9198,
+   "leaky": 0.9203,
+   "dAUC": 0.0005
+  },
+  {
+   "dataset": "banknote",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 0.9996,
+   "leaky": 0.9996,
+   "dAUC": -0.0
+  },
+  {
+   "dataset": "banknote",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 0.9616,
+   "leaky": 0.9617,
+   "dAUC": 0.0001
+  },
+  {
+   "dataset": "banknote",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 0.9996,
+   "leaky": 0.9996,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "banknote",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 0.9605,
+   "leaky": 0.9605,
+   "dAUC": -0.0
+  },
+  {
+   "dataset": "banknote",
+   "clf": "rf",
+   "op": "scaling",
+   "correct": 0.9999,
+   "leaky": 0.9999,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "banknote",
+   "clf": "rf",
+   "op": "imputation",
+   "correct": 0.9888,
+   "leaky": 0.9889,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "dermatology",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 1.0,
+   "leaky": 1.0,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "dermatology",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 1.0,
+   "leaky": 1.0,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "dermatology",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 1.0,
+   "leaky": 1.0,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "dermatology",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 1.0,
+   "leaky": 1.0,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "dermatology",
+   "clf": "rf",
+   "op": "scaling",
+   "correct": 1.0,
+   "leaky": 1.0,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "dermatology",
+   "clf": "rf",
+   "op": "imputation",
+   "correct": 0.9999,
+   "leaky": 0.9999,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "htru2_pulsar",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 0.9747,
+   "leaky": 0.9747,
+   "dAUC": -0.0
+  },
+  {
+   "dataset": "htru2_pulsar",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 0.9693,
+   "leaky": 0.9693,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "htru2_pulsar",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 0.9739,
+   "leaky": 0.9739,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "htru2_pulsar",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 0.968,
+   "leaky": 0.968,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "htru2_pulsar",
+   "clf": "rf",
+   "op": "scaling",
+   "correct": 0.9687,
+   "leaky": 0.9687,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "htru2_pulsar",
+   "clf": "rf",
+   "op": "imputation",
+   "correct": 0.9633,
+   "leaky": 0.964,
+   "dAUC": 0.0007
+  },
+  {
+   "dataset": "glass",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 0.6797,
+   "leaky": 0.6796,
+   "dAUC": -0.0002
+  },
+  {
+   "dataset": "glass",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 0.6558,
+   "leaky": 0.6551,
+   "dAUC": -0.0007
+  },
+  {
+   "dataset": "glass",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 0.7322,
+   "leaky": 0.7322,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "glass",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 0.6472,
+   "leaky": 0.6466,
+   "dAUC": -0.0006
+  },
+  {
+   "dataset": "glass",
+   "clf": "rf",
+   "op": "scaling",
+   "correct": 0.9052,
+   "leaky": 0.9045,
+   "dAUC": -0.0008
+  },
+  {
+   "dataset": "glass",
+   "clf": "rf",
+   "op": "imputation",
+   "correct": 0.8556,
+   "leaky": 0.8548,
+   "dAUC": -0.0008
+  },
+  {
+   "dataset": "ionosphere",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 0.9002,
+   "leaky": 0.9,
+   "dAUC": -0.0002
+  },
+  {
+   "dataset": "ionosphere",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 0.8785,
+   "leaky": 0.8787,
+   "dAUC": 0.0002
+  },
+  {
+   "dataset": "ionosphere",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 0.898,
+   "leaky": 0.898,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "ionosphere",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 0.8691,
+   "leaky": 0.8693,
+   "dAUC": 0.0002
+  },
+  {
+   "dataset": "ionosphere",
+   "clf": "rf",
+   "op": "scaling",
+   "correct": 0.9796,
+   "leaky": 0.9796,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "ionosphere",
+   "clf": "rf",
+   "op": "imputation",
+   "correct": 0.9708,
+   "leaky": 0.9709,
+   "dAUC": 0.0001
+  },
+  {
+   "dataset": "spambase",
+   "clf": "logreg",
+   "op": "scaling",
+   "correct": 0.9708,
+   "leaky": 0.9708,
+   "dAUC": -0.0
+  },
+  {
+   "dataset": "spambase",
+   "clf": "logreg",
+   "op": "imputation",
+   "correct": 0.9626,
+   "leaky": 0.9626,
+   "dAUC": -0.0
+  },
+  {
+   "dataset": "spambase",
+   "clf": "lda",
+   "op": "scaling",
+   "correct": 0.9511,
+   "leaky": 0.9511,
+   "dAUC": 0.0
+  },
+  {
+   "dataset": "spambase",
+   "clf": "lda",
+   "op": "imputation",
+   "correct": 0.9432,
+   "leaky": 0.9432,
+   "dAUC": -0.0
+  }
+ ],
+ "summary": {
+  "n_conditions": 70,
+  "mean_abs_dAUC": 0.00018285714285714284,
+  "max_abs_dAUC": 0.0032,
+  "frac_within_0.005": 1.0,
+  "d_z": -0.1046818002124334
+ }
+}

@@ -1,0 +1,265 @@
+{
+ "per_dataset": {
+  "naive_bayes": {
+   "wine": 0.0007684772213554236,
+   "mammographic": -1.9240226930413346e-05,
+   "parkinsons": 0.00010726476439145334,
+   "transfusion": 0.005491889353289962,
+   "seeds": 0.000634376554479695,
+   "qsar_biodeg": -0.0014760217363136336,
+   "banknote": 0.0002970809720183783,
+   "dermatology": -0.002808191403081972,
+   "htru2_pulsar": 3.712567373355865e-05,
+   "glass": 0.022410985235767122,
+   "ionosphere": 0.0006831763158809586,
+   "spambase": 0.004285911830597566,
+   "vertebral": -0.0014123928603758291,
+   "retinopathy": -0.0009648713870736847,
+   "raisin": -0.00011702646194033939
+  },
+  "lda": {
+   "wine": 0.00029483787696930425,
+   "mammographic": -0.0004155508756990371,
+   "parkinsons": 0.001460659943959201,
+   "transfusion": -0.0013095654979781528,
+   "seeds": 0.0006368623428602005,
+   "qsar_biodeg": 0.006314114718961372,
+   "banknote": 2.6085084077013636e-05,
+   "dermatology": 0.0,
+   "htru2_pulsar": -0.0006846455343819299,
+   "glass": 0.020748899794910975,
+   "ionosphere": 0.02336031382215716,
+   "spambase": 0.0013839279784479224,
+   "vertebral": -0.0010036747135622193,
+   "retinopathy": 0.0006847012235479122,
+   "raisin": 0.0006040922003912966
+  },
+  "logreg": {
+   "wine": 0.000910359641965545,
+   "mammographic": -0.0006049151185492097,
+   "parkinsons": 0.0038299029714895516,
+   "transfusion": -0.0009417616843191053,
+   "seeds": 0.0014842667584046658,
+   "qsar_biodeg": 0.0054836957488044735,
+   "banknote": 2.786528326640762e-05,
+   "dermatology": 0.0,
+   "htru2_pulsar": 0.0006080022391288612,
+   "glass": 0.022147904124930062,
+   "ionosphere": 0.005753146986231268,
+   "spambase": 0.004453474493438285,
+   "vertebral": -0.0013056272041493215,
+   "retinopathy": 0.0001566016420036694,
+   "raisin": 0.0004829852555827315
+  },
+  "knn_k25": {
+   "wine": 0.0006934058544266023,
+   "mammographic": -0.0005969226497067511,
+   "parkinsons": 0.004815323144171028,
+   "transfusion": 0.010455982448400772,
+   "seeds": 0.001101520492312713,
+   "qsar_biodeg": 0.002168919859919146,
+   "banknote": -0.00021312686020114047,
+   "dermatology": 0.0,
+   "htru2_pulsar": 0.005099104060289128,
+   "glass": 0.017580459009860643,
+   "ionosphere": 0.008467918444068837,
+   "spambase": 0.002211687979694621,
+   "vertebral": -0.0009328066683084909,
+   "retinopathy": 0.010851795700944708,
+   "raisin": 0.002251796645485101
+  },
+  "knn_k5": {
+   "wine": 0.002925139366988646,
+   "mammographic": 0.0075128761014224095,
+   "parkinsons": -0.001370621773108538,
+   "transfusion": 0.016826982929744234,
+   "seeds": 0.0030866945947021587,
+   "qsar_biodeg": 0.0065733512835494485,
+   "banknote": 0.0003968253968253954,
+   "dermatology": 0.001247998794267698,
+   "htru2_pulsar": 0.007503918851644031,
+   "glass": 0.010047568122381686,
+   "ionosphere": 0.012140532787555705,
+   "spambase": 0.005291447949511641,
+   "vertebral": 0.005135016658103157,
+   "retinopathy": 0.02932261295747407,
+   "raisin": 0.006909163938623138
+  },
+  "knn_k1": {
+   "wine": 0.00865946918578501,
+   "mammographic": 0.021979787834393732,
+   "parkinsons": 0.0026399458899120467,
+   "transfusion": 0.0527497989560621,
+   "seeds": 0.0033820116601573544,
+   "qsar_biodeg": 0.02885152754670328,
+   "banknote": 0.0003968253968253954,
+   "dermatology": 0.004491496119524522,
+   "htru2_pulsar": 0.02470827784671296,
+   "glass": 0.025975929753964455,
+   "ionosphere": 0.020764696580567454,
+   "spambase": 0.015904681062490284,
+   "vertebral": 0.021035006586331655,
+   "retinopathy": 0.06050986620562652,
+   "raisin": 0.031360461228618165
+  },
+  "decision_tree": {
+   "wine": -0.006632274470208051,
+   "mammographic": 0.03768487899986591,
+   "parkinsons": 0.06275869646851218,
+   "transfusion": 0.07762729371828973,
+   "seeds": -0.0031225810613227565,
+   "qsar_biodeg": 0.051371609526170446,
+   "banknote": 0.0017411235989872227,
+   "dermatology": -0.003967081527677108,
+   "htru2_pulsar": 0.000508007478184728,
+   "glass": 0.05094291459406963,
+   "ionosphere": -0.011249468466581628,
+   "spambase": 0.0073809246571242175,
+   "vertebral": 0.009850578804974605,
+   "retinopathy": 0.07136727692540656,
+   "raisin": 0.02930311531248231
+  },
+  "random_forest": {
+   "wine": 0.0004735546401198147,
+   "mammographic": 0.017700450909879668,
+   "parkinsons": 0.01024501840978472,
+   "transfusion": 0.05961588821525746,
+   "seeds": 0.005927718983337105,
+   "qsar_biodeg": 0.02170507183935914,
+   "banknote": 2.8368812129568138e-05,
+   "dermatology": 3.700743415417188e-17,
+   "htru2_pulsar": 0.002554462330557191,
+   "glass": 0.03708580251452265,
+   "ionosphere": 0.0019905228161362087,
+   "spambase": 0.006409331115377337,
+   "vertebral": 0.011781230853374828,
+   "retinopathy": 0.07194254820271417,
+   "raisin": 0.013961607922643263
+  },
+  "grad_boost": {
+   "wine": -0.01886192158940636,
+   "mammographic": 0.0029599316039938075,
+   "parkinsons": 0.005219250039268412,
+   "transfusion": 0.04348830020528097,
+   "seeds": 0.008477307980113332,
+   "qsar_biodeg": 0.017141014831164925,
+   "banknote": 4.613985163178421e-05,
+   "dermatology": -0.002079164111892869,
+   "htru2_pulsar": 0.0007507529696775261,
+   "glass": 0.02122731251826604,
+   "ionosphere": 0.002718476660308481,
+   "spambase": 0.004723462554074261,
+   "vertebral": 0.015682809594557184,
+   "retinopathy": 0.04546871241398087,
+   "raisin": 0.011659232528690203
+  },
+  "rf_depth_1": {
+   "wine": 0.0026306361154260216,
+   "mammographic": -0.00016826346626711933,
+   "parkinsons": 0.0032767245205509075,
+   "transfusion": 0.010974470699118869,
+   "seeds": 0.024374661647471152,
+   "qsar_biodeg": 0.005574254304102373,
+   "banknote": -0.0003049690752127132,
+   "dermatology": -3.944282379849303e-05,
+   "htru2_pulsar": 0.00011966056668536822,
+   "glass": 0.0292797479616063,
+   "ionosphere": 0.00036083710937728775,
+   "spambase": -0.0012411784424532686,
+   "vertebral": 0.00222814815370224,
+   "retinopathy": 0.0056475841788928465,
+   "raisin": -0.00228384985244486
+  },
+  "rf_depth_3": {
+   "wine": -0.00010849583424158797,
+   "mammographic": 0.00039890874509455426,
+   "parkinsons": 0.010127949058525543,
+   "transfusion": 0.012982031000642213,
+   "seeds": 0.004420301016480092,
+   "qsar_biodeg": 0.007331649411790801,
+   "banknote": 0.0010083810664408555,
+   "dermatology": 0.0,
+   "htru2_pulsar": 0.004124233816596916,
+   "glass": 0.032775807464686,
+   "ionosphere": 0.0001383942287159027,
+   "spambase": 0.002775005905118958,
+   "vertebral": 0.003906543213808085,
+   "retinopathy": 0.00925040269811861,
+   "raisin": 0.003490679722260951
+  },
+  "rf_depth_10": {}
+ },
+ "meta": {
+  "naive_bayes": {
+   "locality": "global",
+   "capacity_rank": 1
+  },
+  "lda": {
+   "locality": "global",
+   "capacity_rank": 2
+  },
+  "logreg": {
+   "locality": "global",
+   "capacity_rank": 3
+  },
+  "knn_k25": {
+   "locality": "local",
+   "capacity_rank": 2
+  },
+  "knn_k5": {
+   "locality": "local",
+   "capacity_rank": 4
+  },
+  "knn_k1": {
+   "locality": "local",
+   "capacity_rank": 6
+  },
+  "decision_tree": {
+   "locality": "local",
+   "capacity_rank": 6
+  },
+  "random_forest": {
+   "locality": "local",
+   "capacity_rank": 7
+  },
+  "grad_boost": {
+   "locality": "local",
+   "capacity_rank": 6
+  },
+  "rf_depth_1": {
+   "locality": "local",
+   "capacity_rank": 1
+  },
+  "rf_depth_3": {
+   "locality": "local",
+   "capacity_rank": 3
+  },
+  "rf_depth_10": {
+   "locality": "local",
+   "capacity_rank": 6
+  }
+ },
+ "datasets": [
+  "wine",
+  "mammographic",
+  "parkinsons",
+  "transfusion",
+  "seeds",
+  "qsar_biodeg",
+  "banknote",
+  "dermatology",
+  "htru2_pulsar",
+  "glass",
+  "ionosphere",
+  "spambase",
+  "vertebral",
+  "retinopathy",
+  "raisin"
+ ],
+ "dup_rate": 0.1,
+ "seeds": [
+  0,
+  1,
+  2
+ ]
+}

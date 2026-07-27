@@ -1,0 +1,66 @@
+[
+ {
+  "arm": "within_family_rf",
+  "model": "rf_depth_1",
+  "n_datasets": 15,
+  "dAUC": 0.005737883622624448,
+  "dAUC_sd": 0.010278949293221182,
+  "d_z": 0.5582169401699937
+ },
+ {
+  "arm": "within_family_rf",
+  "model": "rf_depth_3",
+  "n_datasets": 15,
+  "dAUC": 0.007105832673777727,
+  "dAUC_sd": 0.008383634782144702,
+  "d_z": 0.8475837579317729
+ },
+ {
+  "arm": "within_family_rf",
+  "model": "rf_depth_5",
+  "n_datasets": 15,
+  "dAUC": 0.010152429530346148,
+  "dAUC_sd": 0.01251536702260645,
+  "d_z": 0.8111971076843262
+ },
+ {
+  "arm": "within_family_rf",
+  "model": "rf_depth_10",
+  "n_datasets": 15,
+  "dAUC": 0.015655604222482213,
+  "dAUC_sd": 0.022224363128098213,
+  "d_z": 0.704434324270416
+ },
+ {
+  "arm": "within_family_rf",
+  "model": "rf_depth_None",
+  "n_datasets": 15,
+  "dAUC": 0.018791603774511317,
+  "dAUC_sd": 0.026273272923061485,
+  "d_z": 0.7152365002084267
+ },
+ {
+  "arm": "within_family_knn",
+  "model": "knn_k1",
+  "n_datasets": 15,
+  "dAUC": 0.020592194909246582,
+  "dAUC_sd": 0.019647381898895633,
+  "d_z": 1.048088494192911
+ },
+ {
+  "arm": "within_family_knn",
+  "model": "knn_k5",
+  "n_datasets": 15,
+  "dAUC": 0.00742305267333138,
+  "dAUC_sd": 0.010776270907527,
+  "d_z": 0.6888331536047904
+ },
+ {
+  "arm": "within_family_knn",
+  "model": "knn_k25",
+  "n_datasets": 15,
+  "dAUC": 0.004289761353698621,
+  "dAUC_sd": 0.006247972263743378,
+  "d_z": 0.6865845705800998
+ }
+]

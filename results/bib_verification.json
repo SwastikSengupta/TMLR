@@ -1,0 +1,1146 @@
+[
+ {
+  "key": "roth2026",
+  "claimed_title": "Which leakage types matter? A quantitative landscape across 2,047 benchmark datasets",
+  "claimed_year": 2026,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Which Leakage Types Matter? A Quantitative Landscape Across 2,047 Benchmark Datasets",
+   "authors": [
+    "Simon Roth"
+   ],
+   "year": 2026
+  },
+  "note": "",
+  "source": "arXiv",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "roth2026b",
+  "claimed_title": "A grammar of machine learning workflows: rejecting data leakage at call time",
+  "claimed_year": 2026,
+  "status": "VERIFIED",
+  "found": {
+   "title": "A Grammar of Machine Learning Workflows: Rejecting Data Leakage at Call Time",
+   "authors": [
+    "Simon Roth"
+   ],
+   "year": 2026
+  },
+  "note": "",
+  "source": "arXiv",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "kapoor2023",
+  "claimed_title": "Leakage and the reproducibility crisis in machine-learning-based science",
+  "claimed_year": 2023,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+   "year": 2023,
+   "venue": "Patterns",
+   "authors": [
+    "Kapoor",
+    "Narayanan"
+   ],
+   "doi": "10.1016/j.patter.2023.100804"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "kaufman2012",
+  "claimed_title": "Leakage in data mining: formulation, detection, and avoidance",
+  "claimed_year": 2012,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Leakage in data mining",
+   "year": 2011,
+   "venue": "Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining",
+   "authors": [
+    "Kaufman",
+    "Rosset",
+    "Perlich"
+   ],
+   "doi": "10.1145/2020408.2020496"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "ambroise2002",
+  "claimed_title": "Selection bias in gene extraction on the basis of microarray gene-expression data",
+  "claimed_year": 2002,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Selection bias in gene extraction on the basis of microarray gene-expression data",
+   "year": 2002,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "authors": [
+    "Ambroise",
+    "McLachlan"
+   ],
+   "doi": "10.1073/pnas.102102699"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "simon2003",
+  "claimed_title": "Pitfalls in the use of DNA microarray data for diagnostic and prognostic classification",
+  "claimed_year": 2003,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Pitfalls in the Use of DNA Microarray Data for Diagnostic and Prognostic Classification",
+   "year": 2003,
+   "venue": "JNCI Journal of the National Cancer Institute",
+   "authors": [
+    "Simon",
+    "Radmacher",
+    "Dobbin",
+    "McShane"
+   ],
+   "doi": "10.1093/jnci/95.1.14"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "varoquaux2018",
+  "claimed_title": "Cross-validation failure: small sample sizes lead to large error bars",
+  "claimed_year": 2018,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Cross-validation failure: Small sample sizes lead to large error bars",
+   "year": 2018,
+   "venue": "NeuroImage",
+   "authors": [
+    "Varoquaux"
+   ],
+   "doi": "10.1016/j.neuroimage.2017.06.061"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "varoquaux2017",
+  "claimed_title": "Assessing and tuning brain decoders: cross-validation, caveats, and guidelines",
+  "claimed_year": 2017,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Assessing and tuning brain decoders: Cross-validation, caveats, and guidelines",
+   "year": 2017,
+   "venue": "NeuroImage",
+   "authors": [
+    "Varoquaux",
+    "Raamana",
+    "Engemann",
+    "Hoyos-Idrobo"
+   ],
+   "doi": "10.1016/j.neuroimage.2016.10.038"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "mcdermott2021",
+  "claimed_title": "Reproducibility in machine learning for health research",
+  "claimed_year": 2021,
+  "status": "YEAR_CHECK",
+  "found": {
+   "title": "Reproducibility, Transparency and Evaluation of Machine Learning in Health Applications",
+   "year": 2021,
+   "venue": "Proceedings of the 14th International Joint Conference on Biomedical Engineering Systems and Technologies",
+   "authors": [
+    "Wojtusiak"
+   ],
+   "doi": "10.5220/0010348306850692"
+  },
+  "note": "registry returned: Reproducibility, Transparency and Evaluation of Machine Learning in He",
+  "source": "CrossRef",
+  "title_similarity": 0.26,
+  "s2": {
+   "title": "Reproducibility in Machine Learning for Health",
+   "year": 2019,
+   "venue": "RML@ICLR",
+   "authors": [
+    "McDermott",
+    "Wang",
+    "Marinsek"
+   ],
+   "sim": 1.0
+  }
+ },
+ {
+  "key": "beam2020",
+  "claimed_title": "Challenges to the reproducibility of machine learning models in health care",
+  "claimed_year": 2020,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Challenges to the Reproducibility of Machine Learning Models in Health Care",
+   "year": 2020,
+   "venue": "JAMA",
+   "authors": [
+    "Beam",
+    "Manrai",
+    "Ghassemi"
+   ],
+   "doi": "10.1001/jama.2019.20866"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "alomar2025",
+  "claimed_title": "LeakageDetector: an open source data leakage analysis tool",
+  "claimed_year": 2025,
+  "status": "NOT_FOUND",
+  "found": null,
+  "note": "HTTP Error 429: Too Many Requests",
+  "source": "CrossRef"
+ },
+ {
+  "key": "roberts2017",
+  "claimed_title": "Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure",
+  "claimed_year": 2017,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Cross\u2010validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure",
+   "year": 2017,
+   "venue": "Ecography",
+   "authors": [
+    "Roberts",
+    "Bahn",
+    "Ciuti",
+    "Boyce"
+   ],
+   "doi": "10.1111/ecog.02881"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "bates2024",
+  "claimed_title": "Cross-validation: what does it estimate and how well does it do it?",
+  "claimed_year": 2024,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Cross-Validation: What Does It Estimate and How Well Does It Do It?",
+   "year": 2023,
+   "venue": "Journal of the American Statistical Association",
+   "authors": [
+    "Bates",
+    "Hastie",
+    "Tibshirani"
+   ],
+   "doi": "10.1080/01621459.2023.2197686"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "zhang2021",
+  "claimed_title": "Understanding deep learning (still) requires rethinking generalization",
+  "claimed_year": 2021,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Understanding deep learning (still) requires rethinking generalization",
+   "year": 2021,
+   "venue": "Communications of the ACM",
+   "authors": [
+    "Zhang",
+    "Bengio",
+    "Hardt",
+    "Recht"
+   ],
+   "doi": "10.1145/3446776"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "recht2019",
+  "claimed_title": "Do ImageNet classifiers generalize to ImageNet?",
+  "claimed_year": 2019,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Figure 6: ImageNet architecture.",
+   "year": null,
+   "venue": "",
+   "authors": [],
+   "doi": "10.7717/peerj-cs.3362/fig-6"
+  },
+  "note": "registry returned: Figure 6: ImageNet architecture.",
+  "source": "CrossRef",
+  "title_similarity": 0.08
+ },
+ {
+  "key": "cawley2010",
+  "claimed_title": "On over-fitting in model selection and subsequent selection bias in performance evaluation",
+  "claimed_year": 2079,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Model selection and model over-fitting",
+   "year": 2015,
+   "venue": "The Southwest Respiratory and Critical Care Chronicles",
+   "authors": [],
+   "doi": "10.12746/swrccc2015.0312.160"
+  },
+  "note": "registry returned: Model selection and model over-fitting",
+  "source": "CrossRef",
+  "title_similarity": 0.26
+ },
+ {
+  "key": "varma2006",
+  "claimed_title": "Bias in error estimation when using cross-validation for model selection",
+  "claimed_year": 2006,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Bias in error estimation when using cross-validation for model selection",
+   "year": 2006,
+   "venue": "BMC Bioinformatics",
+   "authors": [
+    "Varma",
+    "Simon"
+   ],
+   "doi": "10.1186/1471-2105-7-91"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "arlot2010",
+  "claimed_title": "A survey of cross-validation procedures for model selection",
+  "claimed_year": 2010,
+  "status": "VERIFIED",
+  "found": {
+   "title": "A survey of cross-validation procedures for model selection",
+   "year": 2010,
+   "venue": "Statistics Surveys",
+   "authors": [
+    "Arlot",
+    "Celisse"
+   ],
+   "doi": "10.1214/09-ss054"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "bengio2004",
+  "claimed_title": "No unbiased estimator of the variance of $k$-fold cross-validation",
+  "claimed_year": 2004,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Minimum Variance Versus Unbiased Estimator",
+   "year": 2024,
+   "venue": "",
+   "authors": [],
+   "doi": "10.4135/9781529697148"
+  },
+  "note": "registry returned: Minimum Variance Versus Unbiased Estimator",
+  "source": "CrossRef",
+  "title_similarity": 0.25
+ },
+ {
+  "key": "dietterich1998",
+  "claimed_title": "Approximate statistical tests for comparing supervised classification learning algorithms",
+  "claimed_year": 1923,
+  "status": "YEAR_MISMATCH",
+  "found": {
+   "title": "Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms",
+   "year": 1998,
+   "venue": "Neural Computation",
+   "authors": [
+    "Dietterich"
+   ],
+   "doi": "10.1162/089976698300017197"
+  },
+  "note": "claimed 1923, registry 1998",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "demsar2006",
+  "claimed_title": "Statistical comparisons of classifiers over multiple data sets",
+  "claimed_year": 2006,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Multiple Machine Learning Comparisons of HIV Cell-based and Reverse Transcriptase Data Sets",
+   "year": null,
+   "venue": "",
+   "authors": [],
+   "doi": "10.1021/acs.molpharmaceut.8b01297.s001"
+  },
+  "note": "registry returned: Multiple Machine Learning Comparisons of HIV Cell-based and Reverse Tr",
+  "source": "CrossRef",
+  "title_similarity": 0.17
+ },
+ {
+  "key": "holm1979",
+  "claimed_title": "A simple sequentially rejective multiple test procedure",
+  "claimed_year": 1979,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Correction: An Improved Sequentially Rejective Bonferroni Test Procedure",
+   "year": 1987,
+   "venue": "Biometrics",
+   "authors": [],
+   "doi": "10.2307/2532027"
+  },
+  "note": "registry returned: Correction: An Improved Sequentially Rejective Bonferroni Test Procedu",
+  "source": "CrossRef",
+  "title_similarity": 0.33
+ },
+ {
+  "key": "efron1993",
+  "claimed_title": null,
+  "claimed_year": 1993,
+  "status": "NO_TITLE",
+  "found": null,
+  "note": ""
+ },
+ {
+  "key": "hastie2009",
+  "claimed_title": null,
+  "claimed_year": 2009,
+  "status": "NO_TITLE",
+  "found": null,
+  "note": ""
+ },
+ {
+  "key": "pedregosa2011",
+  "claimed_title": "Scikit-learn: machine learning in Python",
+  "claimed_year": 2011,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Getting Started with Scikit\u2010learn for Machine Learning",
+   "year": 2019,
+   "venue": "Python\u00ae Machine Learning",
+   "authors": [],
+   "doi": "10.1002/9781119557500.ch5"
+  },
+  "note": "registry returned: Getting Started with Scikit\u2010learn for Machine Learning",
+  "source": "CrossRef",
+  "title_similarity": 0.31
+ },
+ {
+  "key": "buitinck2013",
+  "claimed_title": "API design for machine learning software: experiences from the scikit-learn project",
+  "claimed_year": 2013,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Pipelines with Scikit-Learn and PySpark",
+   "year": 2023,
+   "venue": "Distributed Machine Learning with PySpark",
+   "authors": [
+    "Testas"
+   ],
+   "doi": "10.1007/978-1-4842-9751-3_17"
+  },
+  "note": "registry returned: Pipelines with Scikit-Learn and PySpark",
+  "source": "CrossRef",
+  "title_similarity": 0.08
+ },
+ {
+  "key": "dua2019",
+  "claimed_title": "UCI machine learning repository",
+  "claimed_year": 2019,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Table 3: Health datasets from UCI machine learning repository.",
+   "year": null,
+   "venue": "",
+   "authors": [],
+   "doi": "10.7717/peerj-cs.1806/table-3"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "ucirepo",
+  "claimed_title": null,
+  "claimed_year": null,
+  "status": "NO_TITLE",
+  "found": null,
+  "note": ""
+ },
+ {
+  "key": "vanschoren2014",
+  "claimed_title": "OpenML: networked science in machine learning",
+  "claimed_year": 2014,
+  "status": "VERIFIED",
+  "found": {
+   "title": "OpenML",
+   "year": 2014,
+   "venue": "ACM SIGKDD Explorations Newsletter",
+   "authors": [
+    "Vanschoren",
+    "van Rijn",
+    "Bischl",
+    "Torgo"
+   ],
+   "doi": "10.1145/2641190.2641198"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "bischl2021",
+  "claimed_title": "OpenML benchmarking suites",
+  "claimed_year": 2021,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Table 2: Features of animal tracking software suites used in the comparative benchmarking.",
+   "year": null,
+   "venue": "",
+   "authors": [],
+   "doi": "10.7717/peerj.7367/table-2"
+  },
+  "note": "registry returned: Table 2: Features of animal tracking software suites used in the compa",
+  "source": "CrossRef",
+  "title_similarity": 0.14
+ },
+ {
+  "key": "geirhos2020",
+  "claimed_title": "Shortcut learning in deep neural networks",
+  "claimed_year": 2020,
+  "status": "YEAR_MISMATCH",
+  "found": {
+   "title": "Shortcut Learning in Deep Neural Networks for Knee Osteoarthritis Grading: Detection, Characterization, and Mitigation via Gradient Reversal and Geometric Augmentation",
+   "year": 2026,
+   "venue": "",
+   "authors": [
+    "Dhruv",
+    "Vaghasiya",
+    "Viroja"
+   ],
+   "doi": "10.21203/rs.3.rs-9495057/v1"
+  },
+  "note": "claimed 2020, registry 2026",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "lipton2019",
+  "claimed_title": "Troubling trends in machine learning scholarship",
+  "claimed_year": 2019,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Research for practice",
+   "year": 2019,
+   "venue": "Communications of the ACM",
+   "authors": [
+    "Lipton",
+    "Steinhardt"
+   ],
+   "doi": "10.1145/3316774"
+  },
+  "note": "registry returned: Research for practice",
+  "source": "CrossRef",
+  "title_similarity": 0.0
+ },
+ {
+  "key": "sculley2018",
+  "claimed_title": "Winner's curse? On pace, progress, and empirical rigor",
+  "claimed_year": 2018,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "&lt;p&gt;Winner Curse : A Practitioners guide&lt;/p&gt;",
+   "year": 2025,
+   "venue": "",
+   "authors": [
+    "Farahat"
+   ],
+   "doi": "10.2139/ssrn.5269401"
+  },
+  "note": "registry returned: &lt;p&gt;Winner Curse : A Practitioners guide&lt;/p&gt;",
+  "source": "CrossRef",
+  "title_similarity": 0.04
+ },
+ {
+  "key": "bouthillier2021",
+  "claimed_title": "Accounting for variance in machine learning benchmarks",
+  "claimed_year": 2021,
+  "status": "VERIFIED_S2",
+  "found": {
+   "title": "MF-PCBA: Multifidelity High-Throughput Screening Benchmarks for Drug Discovery and Machine Learning",
+   "year": null,
+   "venue": "",
+   "authors": [],
+   "doi": "10.1021/acs.jcim.2c01569.s001"
+  },
+  "note": "registry returned: MF-PCBA: Multifidelity High-Throughput Screening Benchmarks for Drug D",
+  "source": "CrossRef",
+  "title_similarity": 0.2,
+  "s2": {
+   "title": "Accounting for Variance in Machine Learning Benchmarks",
+   "year": 2021,
+   "venue": "Conference on Machine Learning and Systems",
+   "authors": [
+    "Bouthillier",
+    "Delaunay",
+    "Bronzi"
+   ],
+   "sim": 1.0
+  }
+ },
+ {
+  "key": "dacrema2019",
+  "claimed_title": "Are we really making much progress? A worrying analysis of recent neural recommendation approaches",
+  "claimed_year": 2019,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Are we really making much progress? A worrying analysis of recent neural recommendation approaches",
+   "year": 2019,
+   "venue": "Proceedings of the 13th ACM Conference on Recommender Systems",
+   "authors": [
+    "Ferrari Dacrema",
+    "Cremonesi",
+    "Jannach"
+   ],
+   "doi": "10.1145/3298689.3347058"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "musgrave2020",
+  "claimed_title": "A metric learning reality check",
+  "claimed_year": 2020,
+  "status": "VERIFIED",
+  "found": {
+   "title": "A Metric Learning Reality Check",
+   "year": 2020,
+   "venue": "Lecture Notes in Computer Science",
+   "authors": [
+    "Musgrave",
+    "Belongie",
+    "Lim"
+   ],
+   "doi": "10.1007/978-3-030-58595-2_41"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "henderson2018",
+  "claimed_title": "Deep reinforcement learning that matters",
+  "claimed_year": 2018,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Time Matters: Portfolio Optimization using Deep Reinforcement Learning with Sequential Memory",
+   "year": 2026,
+   "venue": "",
+   "authors": [
+    "Oza",
+    "Binayke",
+    "Labde"
+   ],
+   "doi": "10.22541/au.177324093.34944874/v1"
+  },
+  "note": "registry returned: Time Matters: Portfolio Optimization using Deep Reinforcement Learning",
+  "source": "CrossRef",
+  "title_similarity": 0.28
+ },
+ {
+  "key": "melis2018",
+  "claimed_title": "On the state of the art of evaluation in neural language models",
+  "claimed_year": 2018,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Evaluation of the Performance of State-of-the-Art Large Language Models (LLMs) in Solving Math Word Problems",
+   "year": 2024,
+   "venue": "",
+   "authors": [
+    "Vidal"
+   ],
+   "doi": "10.2139/ssrn.4902960"
+  },
+  "note": "registry returned: Evaluation of the Performance of State-of-the-Art Large Language Model",
+  "source": "CrossRef",
+  "title_similarity": 0.23
+ },
+ {
+  "key": "pineau2021",
+  "claimed_title": "Improving reproducibility in machine learning research",
+  "claimed_year": 2021,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Improving Reproducibility in Machine Learning: Overview, Barriers, and Drivers",
+   "year": 2026,
+   "venue": "",
+   "authors": [
+    "Mzyece"
+   ],
+   "doi": "10.36227/techrxiv.177155769.94899097/v1"
+  },
+  "note": "registry returned: Improving Reproducibility in Machine Learning: Overview, Barriers, and",
+  "source": "CrossRef",
+  "title_similarity": 0.53
+ },
+ {
+  "key": "raff2019",
+  "claimed_title": "A step toward quantifying independently reproducible machine learning research",
+  "claimed_year": 2019,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Quantifying the Crisis in Reproducible Machine Learning.",
+   "year": 2021,
+   "venue": "Proposed for presentation at the ACM Student Research Competition (SRC) in ,",
+   "authors": [
+    "Ahmed",
+    "Lofstead"
+   ],
+   "doi": "10.2172/1883039"
+  },
+  "note": "registry returned: Quantifying the Crisis in Reproducible Machine Learning.",
+  "source": "CrossRef",
+  "title_similarity": 0.37
+ },
+ {
+  "key": "gundersen2022",
+  "claimed_title": "Sources of irreproducibility in machine learning: a review",
+  "claimed_year": 2022,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Sources of Irreproducibility in Machine Learning: A Review",
+   "authors": [
+    "Odd Erik Gundersen",
+    "Kevin Coakley",
+    "Christine Kirkpatrick",
+    "Yolanda Gil"
+   ],
+   "year": 2022
+  },
+  "note": "",
+  "source": "arXiv",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "ioannidis2005",
+  "claimed_title": "Why most published research findings are false",
+  "claimed_year": 2005,
+  "status": "YEAR_MISMATCH",
+  "found": {
+   "title": "Why most pre-published research findings are false.",
+   "year": 2020,
+   "venue": "",
+   "authors": [
+    "Lobentanzer"
+   ],
+   "doi": "10.31219/osf.io/29jnp"
+  },
+  "note": "claimed 2005, registry 2020",
+  "source": "CrossRef",
+  "title_similarity": 0.79
+ },
+ {
+  "key": "blum2015",
+  "claimed_title": "The ladder: a reliable leaderboard for machine learning competitions",
+  "claimed_year": 2015,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Conformal Prediction for Reliable Machine Learning",
+   "year": 2014,
+   "venue": "Conformal Prediction for Reliable Machine Learning",
+   "authors": [],
+   "doi": "10.1016/b978-0-12-398537-8.00015-8"
+  },
+  "note": "registry returned: Conformal Prediction for Reliable Machine Learning",
+  "source": "CrossRef",
+  "title_similarity": 0.2
+ },
+ {
+  "key": "dwork2015",
+  "claimed_title": "The reusable holdout: preserving validity in adaptive data analysis",
+  "claimed_year": 2015,
+  "status": "VERIFIED",
+  "found": {
+   "title": "The reusable holdout: Preserving validity in adaptive data analysis",
+   "year": 2015,
+   "venue": "Science",
+   "authors": [
+    "Dwork",
+    "Feldman",
+    "Hardt",
+    "Pitassi"
+   ],
+   "doi": "10.1126/science.aaa9375"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "bergmeir2012",
+  "claimed_title": "On the use of cross-validation for time series predictor evaluation",
+  "claimed_year": 2012,
+  "status": "VERIFIED",
+  "found": {
+   "title": "On the use of cross-validation for time series predictor evaluation",
+   "year": 2012,
+   "venue": "Information Sciences",
+   "authors": [
+    "Bergmeir",
+    "Ben\u00edtez"
+   ],
+   "doi": "10.1016/j.ins.2011.12.028"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "barz2020",
+  "claimed_title": "Do we train on test data? Purging CIFAR of near-duplicates",
+  "claimed_year": 2020,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Do We Train on Test Data? Purging CIFAR of Near-Duplicates",
+   "year": 2020,
+   "venue": "Journal of Imaging",
+   "authors": [
+    "Barz",
+    "Denzler"
+   ],
+   "doi": "10.3390/jimaging6060041"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "guyon2003",
+  "claimed_title": "An introduction to variable and feature selection",
+  "claimed_year": 2003,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Ensemble-Based Variable Selection Using Independent Probes",
+   "year": 2007,
+   "venue": "Computational Methods of Feature Selection",
+   "authors": [],
+   "doi": "10.1201/9781584888796-15"
+  },
+  "note": "registry returned: Ensemble-Based Variable Selection Using Independent Probes",
+  "source": "CrossRef",
+  "title_similarity": 0.13
+ },
+ {
+  "key": "nogueira2018",
+  "claimed_title": "On the stability of feature selection algorithms",
+  "claimed_year": 2018,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Stability of Feature Selection Algorithms and Ensemble Feature Selection Methods in Bioinformatics",
+   "year": 2013,
+   "venue": "Biological Knowledge Discovery Handbook",
+   "authors": [
+    "Yang",
+    "Zhou",
+    "Yang",
+    "Zomaya"
+   ],
+   "doi": "10.1002/9781118617151.ch14"
+  },
+  "note": "registry returned: Stability of Feature Selection Algorithms and Ensemble Feature Selecti",
+  "source": "CrossRef",
+  "title_similarity": 0.43
+ },
+ {
+  "key": "bousquet2002",
+  "claimed_title": "Stability and generalization",
+  "claimed_year": 2002,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Stability and Generalization for Distributed SGDA_supp1-3677027.pdf",
+   "year": null,
+   "venue": "",
+   "authors": [
+    "Du"
+   ],
+   "doi": "10.1109/tpami.2026.3677027/mm1"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "breiman2001",
+  "claimed_title": "Random forests",
+  "claimed_year": 2001,
+  "status": "VERIFIED_S2",
+  "found": {
+   "title": "Random Forests",
+   "year": 2020,
+   "venue": "Use R!",
+   "authors": [
+    "Genuer",
+    "Poggi"
+   ],
+   "doi": "10.1007/978-3-030-56485-8_3"
+  },
+  "note": "claimed 2001, registry 2020",
+  "source": "CrossRef",
+  "title_similarity": 1.0,
+  "s2": {
+   "title": "Random Forests",
+   "year": 2001,
+   "venue": "Machine-mediated learning",
+   "authors": [
+    "Breiman"
+   ],
+   "sim": 1.0
+  }
+ },
+ {
+  "key": "friedman2001",
+  "claimed_title": "Greedy function approximation: a gradient boosting machine",
+  "claimed_year": 2001,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Greedy function approximation: A gradient boosting machine.",
+   "year": 2001,
+   "venue": "The Annals of Statistics",
+   "authors": [
+    "Friedman"
+   ],
+   "doi": "10.1214/aos/1013203451"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "cover1967",
+  "claimed_title": "Nearest neighbor pattern classification",
+  "claimed_year": 1967,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Nearest Neighbor Classification",
+   "year": null,
+   "venue": "SpringerReference",
+   "authors": [],
+   "doi": "10.1007/springerreference_63665"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 0.58
+ },
+ {
+  "key": "stone1974",
+  "claimed_title": "Cross-validatory choice and assessment of statistical predictions",
+  "claimed_year": 1974,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Cross-Validatory Choice and Assessment of Statistical Predictions",
+   "year": 1974,
+   "venue": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+   "authors": [
+    "Stone"
+   ],
+   "doi": "10.1111/j.2517-6161.1974.tb00994.x"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "kohavi1995",
+  "claimed_title": "A study of cross-validation and bootstrap for accuracy estimation and model selection",
+  "claimed_year": 1995,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Table 2: Model selection cross-validation\u00a0accuracy metrics.",
+   "year": null,
+   "venue": "",
+   "authors": [],
+   "doi": "10.7717/peerjcs.2221/table-2"
+  },
+  "note": "registry returned: Table 2: Model selection cross-validation\u00a0accuracy metrics.",
+  "source": "CrossRef",
+  "title_similarity": 0.31
+ },
+ {
+  "key": "poldrack2020",
+  "claimed_title": "Establishment of best practices for evidence for prediction",
+  "claimed_year": 2020,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Establishment of Best Practices for Evidence for Prediction",
+   "year": 2020,
+   "venue": "JAMA Psychiatry",
+   "authors": [
+    "Poldrack",
+    "Huckins",
+    "Varoquaux"
+   ],
+   "doi": "10.1001/jamapsychiatry.2019.3671"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "whalen2022",
+  "claimed_title": "Navigating the pitfalls of applying machine learning in genomics",
+  "claimed_year": 2022,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Navigating the pitfalls of applying machine learning in genomics",
+   "year": 2021,
+   "venue": "Nature Reviews Genetics",
+   "authors": [
+    "Whalen",
+    "Schreiber",
+    "Noble",
+    "Pollard"
+   ],
+   "doi": "10.1038/s41576-021-00434-9"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "teschendorff2019",
+  "claimed_title": "Avoiding common pitfalls in machine learning omic data science",
+  "claimed_year": 2019,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Avoiding common pitfalls in machine learning omic data science",
+   "year": 2018,
+   "venue": "Nature Materials",
+   "authors": [
+    "Teschendorff"
+   ],
+   "doi": "10.1038/s41563-018-0241-z"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "chicco2017",
+  "claimed_title": "Ten quick tips for machine learning in computational biology",
+  "claimed_year": 2017,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Ten quick tips for machine learning in computational biology",
+   "year": 2017,
+   "venue": "BioData Mining",
+   "authors": [
+    "Chicco"
+   ],
+   "doi": "10.1186/s13040-017-0155-3"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "lones2021",
+  "claimed_title": "How to avoid machine learning pitfalls",
+  "claimed_year": 2021,
+  "status": "VERIFIED",
+  "found": {
+   "title": "How to avoid machine learning pitfalls: a guide for academic researchers",
+   "authors": [
+    "Michael A. Lones"
+   ],
+   "year": 2021
+  },
+  "note": "",
+  "source": "arXiv",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "hullman2022",
+  "claimed_title": "The worst of both worlds: a comparative analysis of errors in learning from data in psychology and machine learning",
+  "claimed_year": 2022,
+  "status": "VERIFIED",
+  "found": {
+   "title": "The Worst of Both Worlds: A Comparative Analysis of Errors in Learning from Data in Psychology and Machine Learning",
+   "year": 2022,
+   "venue": "Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society",
+   "authors": [
+    "Hullman",
+    "Kapoor",
+    "Nanayakkara",
+    "Gelman"
+   ],
+   "doi": "10.1145/3514094.3534196"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ },
+ {
+  "key": "liao2021",
+  "claimed_title": "Are we learning yet? A meta-review of evaluation failures across machine learning",
+  "claimed_year": 2021,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Review for \"MACHINE LEARNING IN LEGAL METROLOGY \u2013 DETECTING BREATHALYZERS\u2019 FAILURES\"",
+   "year": 2023,
+   "venue": "",
+   "authors": [],
+   "doi": "10.1088/1361-6501/ad1d2c/v1/review2"
+  },
+  "note": "registry returned: Review for \"MACHINE LEARNING IN LEGAL METROLOGY \u2013 DETECTING BREATHALYZ",
+  "source": "CrossRef",
+  "title_similarity": 0.16
+ },
+ {
+  "key": "koch2021",
+  "claimed_title": "Reduced, reused and recycled: the life of a dataset in machine learning research",
+  "claimed_year": 2021,
+  "status": "TITLE_MISMATCH",
+  "found": {
+   "title": "Parametric Analysis of Environmental Performance of Reused/Recycled  Packaging",
+   "year": null,
+   "venue": "",
+   "authors": [],
+   "doi": "10.1021/es050970s.s001"
+  },
+  "note": "registry returned: Parametric Analysis of Environmental Performance of Reused/Recycled  P",
+  "source": "CrossRef",
+  "title_similarity": 0.06
+ },
+ {
+  "key": "paullada2021",
+  "claimed_title": "Data and its (dis)contents: a survey of dataset development and use",
+  "claimed_year": 2021,
+  "status": "VERIFIED",
+  "found": {
+   "title": "Preview of \u201cData and its (dis)contents: A survey of dataset development and use in machine learning research\u201d",
+   "year": 2021,
+   "venue": "Patterns",
+   "authors": [
+    "Vincent",
+    "Hecht"
+   ],
+   "doi": "10.1016/j.patter.2021.100388"
+  },
+  "note": "",
+  "source": "CrossRef",
+  "title_similarity": 1.0
+ }
+]
