@@ -20,13 +20,13 @@ from d_z = 0.31 (naive Bayes) to d_z = 1.23 (1-NN). The original reports 0.37 an
 1.11 for its endpoints. Ordering and magnitude both hold.
 
 **A hypothesis that failed, reported as such.** I proposed that Class III tracks
-*locality* — whether one training point can dominate its own prediction — rather
+*locality* I checked then whether one training point can dominate its own prediction and rather
 than capacity. It does not. In a joint model with capacity measured rather than
 assumed, locality carries no weight (β = −0.0017, p = 0.63) and reverses sign.
 
 **What survived is better than what I set out to test.** Replacing algorithm-family
 comparison with a *measured* capacity index — each learner's training AUC on
-randomised labels — predicts Class III severity across 11 learners at
+randomised labels and predicts Class III severity across 11 learners at
 **Spearman ρ = 0.982** (p = 8.4×10⁻⁸), Pearson r = 0.912, bootstrap 95% CI
 [0.834, 0.984], R² = 0.837. The original's qualitative claim becomes a computable
 quantity.
@@ -49,7 +49,6 @@ set needed. Observed calibration in this study:
 | ~0.78 | ~0.007 AUC |
 | ~0.99 | > 0.017 AUC |
 
-Descriptive of this study, not a certified threshold.
 
 ## Quick start
 
