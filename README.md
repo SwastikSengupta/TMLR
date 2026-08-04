@@ -88,16 +88,6 @@ paired t, because effects are bounded and not obviously normal. Rank-biserial
 correlation as effect size. Holm correction for multiplicity. Bootstrap
 percentile intervals, 5,000 resamples.
 
-## What this does not establish
-
-- Two of four classes reproduced. Class II (selection) and Class IV (boundary)
-  are untouched.
-- 11 learners is a small sample for a regression, and the index is fitted across
-  model classes, not within one.
-- All datasets are tabular UCI classification problems under 18,000 rows.
-- Duplication here is exact; near-duplicates are the more common real failure.
-- Grouped CV is the comparator throughout, and cross-validation estimates a
-  subtler quantity than usually assumed (Bates, Hastie & Tibshirani 2024).
 
 ## Citation note
 
